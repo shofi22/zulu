@@ -8,7 +8,7 @@ Este es el repositorio donde será publicado el proyecto requerido para el ciclo
 ## Participantes
 
 - Luis Felipe Granda Rivera
-- 
+- Santiago Acero Garzon
 - 
 - 
 -
