@@ -9,7 +9,7 @@ Este es el repositorio donde será publicado el proyecto requerido para el ciclo
 
 - Luis Felipe Granda Rivera
 - Santiago Acero Garzon
-- 
+- Lina Sofia Reyes
 - 
 -
 
